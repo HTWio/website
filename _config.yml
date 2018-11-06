@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+exclude:          ["Gemfile", "Gemfile.lock", "*.gem", "LICENSE", "README.md"]
+plugins:          [jekyll-paginate]
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            Hack The World
+tagline:          'A blog for engineers'
+description:      'A simple site to learn about the principles of engineering and how they can help you live a better life.'
+url:              https://hacktheworld.io/
+baseurl:          /
+
+author:
+  name:           'Evan Yohe'
+#  url:            https://twitter.com/mdo
+
+#pagination settings
+paginate: 5
+paginate_path: "/blog/page:num/"
+# Custom vars
