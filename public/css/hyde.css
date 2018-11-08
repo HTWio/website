@@ -10,7 +10,7 @@
 
 /*
  * Global resets
- *
+ * THe colors used are #120E89 & #FF880A & #9304EE
  * Update the foundational and global aspects of the page.
  */
 @font-face {
@@ -118,9 +118,9 @@ a.sidebar-nav-item:focus {
 
 /* Base Theme for HTW*/
 .theme-base-htw .sidebar {
-  background-color: #00D400;
+  background-color: #120E89;
 }
 .theme-base-htw .content a,
 .theme-base-htw .related-posts li a:hover {
-  color: #a5009d;
+  color: #FF880A;
 }
