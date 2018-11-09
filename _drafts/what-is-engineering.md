@@ -4,15 +4,15 @@ date: 2018-10-25 04:56:41 +0000
 layout: post
 
 ---
-Thank you so much for visiting my website. It may not look like much yet but as time goes on, and more content is added, it will flourish into a community that helps to inspire future engineers and educate backyard engineers.
+Thank you so much for visiting my website. It may not look like much yet but as time goes on, and more content is added, it will flourish into a community that helps to inspire future engineers and educate backyard engineers, hobbyists, and makers alike.
 
 ## What is engineering?
 
 If I asked you what engineering was right now, could you answer me? Can you tell me what they do? How they think? Where they start and how they know when to stop? I didn't think so, but that's okay, at one point neither did I.
 
-Humans are natural engineers, but we also share this ability with a humble insect. The Bee. Bees are one of the most important parts of our ecosystem, and they are natural engineers. When bees create a place to store wax and honey, they use a hexagonal shape, which humans have also named the "honeycomb" in their honor. This shape is regularly praised as the most efficient shape, because of the its strength and because it uses the least amount of materials required. Just like the bee, engineering is in our bones. Every single person out there has engineering in their blood, whether they realize it or not. It defines us, and our society.
+Before I talk about human engineers, we need to talk about one of natures best engineers. The Bee. Bees are one of the most important parts of our ecosystem, and they are natural born engineers. When bees create a place to store wax and honey, they use a hexagonal shape, which humans have also named the "honeycomb" in their honor. This shape is regularly praised as the most efficient shape, because of the its strength and because it uses the least amount of materials required. Just like the bee, engineering is in our bones. Every single person out there has engineering in their DNA, whether they realize it or not. It defines us, and our society.
 
-But I still haven't answered the question; What is Engineering? 
+But I still haven't answered the question; What is Engineering?
 
 ### They solve problems.
 
