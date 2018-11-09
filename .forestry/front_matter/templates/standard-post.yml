@@ -38,5 +38,6 @@ fields:
     required: true
   hidden: false
 pages:
+- _posts/what-do-they-do.md
 - _posts/who-are-engineers.md
 - _posts/the-design-process-start-to-finish.md
