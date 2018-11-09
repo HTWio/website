@@ -13,7 +13,7 @@ fields:
       format: markdown
   default: post
   description: Always post, do  not edit.
-  hidden: true
+  hidden: false
 - type: text
   label: Title
   name: title
@@ -21,7 +21,7 @@ fields:
   config:
     required: true
   description: Title of the Post
-  hidden: true
+  hidden: false
 - type: text
   label: tags
   description: Bracket array of tags for post
@@ -29,13 +29,13 @@ fields:
   name: tags
   config:
     required: true
-  hidden: true
+  hidden: false
 - type: text
   label: category
   name: category
   description: 'One category for post: EE, ME, CE, CiE, AAE, Project'
   config:
     required: true
-  hidden: true
+  hidden: false
 pages:
 - _posts/the-design-process-start-to-finish.md
