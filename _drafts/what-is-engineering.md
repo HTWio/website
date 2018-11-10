@@ -6,7 +6,9 @@ layout: post
 ---
 ### Welcome to the first post.
 
-Thank you so much for visiting my website. It may not look like much yet but as time goes on, and more content is added, it will flourish into a community that helps to inspire future engineers and educate backyard engineers, hobbyists, and makers alike.
+Thank you so much for visiting my website. It may not look like much yet but as time goes on, and more content is added, it will flourish into a community that helps to inspire future engineers and educate backyard engineers, hobbyists, and makers alike. Before you do anything else, go ahead and visit the about page to learn a little more about your author (me) and my core goals for the website. 
+
+Before I get into the good stuff, I have a special sneak peek at our first two projects we'll be doing for the website. One is a partial project, meaning I already started it but I'll finish it here. The other will be start to finish, everything will be documented so you guys can learn from what I do, and maybe even follow along. Our first project will be finishing a very simple guitar amp. I've already done a lot of the ground work so I'll make a re-cap of everything I've already done up to this point. The amp project will be a really good place to start learning some basic electrical engineering and schematics, as well as giving us a tool to test the second project. As for the second project; it will be much more in-depth and will go into the design and prototyping processes heavily. If you follow this process carefully, you'll be able to get a really good handle on the engineering design method, and the core of what design really is. Without any more time wasted, our second project will be the design, building, and testing of a fully functional electric guitar. As you can see from the two projects above, I'm pretty fond of guitars and music. If you hav 
 
 ### What is engineering?
 
