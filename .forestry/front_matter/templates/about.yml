@@ -14,4 +14,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/the-partial-project.md
 - _posts/2018-10-25-what-is-engineering.md
